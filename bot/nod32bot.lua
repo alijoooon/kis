@@ -247,14 +247,14 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {142910418,179983320,24878907,173345972,126477037,187120231,161250133},--Sudo users
+	    sudo_users = {204285160},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/dany-sj/EVILBOT
+@editoram1
 
-channel : @HACKANDEVILBOT
-sodu : @Xx_shah_zaq_xX
+channel : @mr_editor1
+sodu : @editoram1
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -325,7 +325,7 @@ sodu : @Xx_shah_zaq_xX
 
 ]],
     help_text = [[
-EVILBOT Commands list :
+کس بابات نگاه کن قشنگ بنویس کسشر ننویسی 
  
 1-banhammer list ^
  
@@ -521,11 +521,11 @@ version
 
 دستورات بدون ....!.../..کار میکند
 
-channel : @HACKANDEVILBOT
+channel : @mr_editor1
 
-sodu : @Xx_shah_zaq_xX
+sodu : @editoram1
 
-G00D LUCK ^_^
+eski by mr _ editor
 ]]
    }
   serialize_to_file(config, './data/config.lua')
